@@ -37,7 +37,7 @@ I'd love to continue doing some projects like these to learn advanced CSS, flexb
 
 ### Useful resources
 
-- [Udemy Complete Web Development Bootcamp] (https://www.udemy.com/course/the-complete-web-development-bootcamp/) - This udemy course is absolutely brilliant. Great for going back to the basics of HTML & CSS and building on my existing development skills. Looking forward to getting to the JS section as I have very little knowledge of JS.
+- [Udemy Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - This udemy course is absolutely brilliant. Great for going back to the basics of HTML & CSS and building on my existing development skills. Looking forward to getting to the JS section as I have very little knowledge of JS.
 - [MDN web docs](https://developer.mozilla.org/en-US/docs) - Invaluable as always! Great for referring to when code doesn't quite work the way it should.
 
 ## Author
