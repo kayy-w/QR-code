@@ -10,7 +10,7 @@ main {
   padding: 15px;
   width: 280px;
   text-align: center;
-  box-shadow: 10px 5px 20px #cfdbe9;
+  box-shadow: 5px 5px 55px #b5c7db;
 }
 main .qr-code {
   background: url("images/image-qr-code.png") no-repeat center/100%;
