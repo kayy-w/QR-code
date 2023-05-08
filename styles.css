@@ -3,16 +3,16 @@ body {
   font-family: "rotunda-variable", Helvetica, Arial, sans-serif;
 }
 
-.main {
+main {
   background: #fff;
   border-radius: 15px;
-  margin: 50px auto;
+  margin: 75px auto;
   padding: 15px;
   width: 280px;
   text-align: center;
   box-shadow: 10px 5px 20px #cfdbe9;
 }
-.main .qr-code {
+main .qr-code {
   background: url("images/image-qr-code.png") no-repeat center/100%;
   width: 100%;
   height: 250px;
@@ -20,14 +20,14 @@ body {
   padding: 0;
   border-radius: 10px;
 }
-.main h2 {
+main h1 {
   font-weight: 900;
   color: #202e48;
   font-size: 21px;
   line-height: 26px;
   padding: 10px 10px 0;
 }
-.main p {
+main p {
   color: #68696a;
   font-size: 15px;
   line-height: 21px;
